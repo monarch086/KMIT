@@ -31,9 +31,9 @@ public class Progression {
 			}
 		}
 		
-		if (result == true){
+		if (result == true)
 			System.out.println ("¬веден≥ числа становл€ть геометричну прогрес≥ю з коеф≥ц≥Їнтом "+koef);
-		}
+		
 		else System.out.println ("¬веден≥ числа не становл€ть геометричну прогрес≥ю");
 		
 	}
