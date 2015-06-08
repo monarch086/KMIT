@@ -20,6 +20,7 @@ public class Progression {
 		boolean result = false;
 		int koef = massive[1]/massive[0];
 		
+		quantity--;
 		for (int i = 0; i<quantity; i++){
 			if ((massive[i+1]/massive[i])==koef){
 				result = true;
